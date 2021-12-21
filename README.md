@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi Folks 👋
 
 <!--
 **madvid/madvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,8 +49,14 @@ Here are some ideas to get you started:
 - [Fillit](https://github.com/madvid/42_Fillit)
 - [Get_Next_Line](https://github.com/madvid/42_get_next_line)
 - [Libft](https://github.com/madvid/42_libft)
-<p><img align="center">
-	<img src="https://badge42.herokuapp.com/api/stats/mdavid?privacyName=true&privacyEmail=true)](https://github.com/madvid/badge42" />
+
+## My projects:
+- 🚧 Quanfima 🚧 \hspace{0.5cm}- ... - Instance Detection ...,
+- 🚧 CardGrader 🚧 \hspace{0.5cm}- ... - OpenCV, Edge Detection ...,
+- 🚧 ModeTis 🚧 \hspace{0.5cm}- ... - Times series, ARIMA, model selection ...,
+
+<p><align="center">
+	<img height="130" src="https://badge42.herokuapp.com/api/stats/mdavid?privacyName=true&privacyEmail=true)](https://github.com/madvid/badge42" />
 </p>
 
 ## GitHub Statistics
