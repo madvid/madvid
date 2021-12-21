@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 - [Get_Next_Line](https://github.com/madvid/42_get_next_line)
 - [Libft](https://github.com/madvid/42_libft)
 
-## My projects:
-- 🚧 Quanfima 🚧 \hspace{0.5cm}- ... - Instance Detection ...,
-- 🚧 CardGrader 🚧 \hspace{0.5cm}- ... - OpenCV, Edge Detection ...,
-- 🚧 ModeTis 🚧 \hspace{0.5cm}- ... - Times series, ARIMA, model selection ...,
-
 <p><align="center">
-	<img height="130" src="https://badge42.herokuapp.com/api/stats/mdavid?privacyName=true&privacyEmail=true)](https://github.com/madvid/badge42" />
+	<img height="150" src="https://badge42.herokuapp.com/api/stats/mdavid?privacyName=true&privacyEmail=true)](https://github.com/madvid/badge42" />
 </p>
+
+## My projects:
+- 🚧 Quanfima 🚧 &nbsp;&nbsp;- ... - Instance Detection ...,
+- 🚧 CardGrader 🚧 &nbsp;&nbsp;- ... - OpenCV, Edge Detection ...,
+- 🚧 ModeTis 🚧 &nbsp;&nbsp;- ... - Times series, ARIMA, model selection ...,
 
 ## GitHub Statistics
 
