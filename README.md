@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 💻 :
 - 🌱 working hard on [sklearn](https://scikit-learn.org/stable/),
 - 🌱 working hard on [OpenCV](https://opencv.org/),
-- 🌱 working hard on [pytorch](https://pytorch.org/).
+- 🌱 working hard on [Pytorch](https://pytorch.org/) and [Tensorflow](https://www.tensorflow.org/).
 
 📚 Readings :
 - [*Dive into Deep Learning*](https://d2l.ai/),
