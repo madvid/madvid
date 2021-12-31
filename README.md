@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📚 Readings :
 - [*Dive into Deep Learning*](https://d2l.ai/),
-- [*Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow: Concepts, Tools, and Techniques to Vuild Intelligent Systems*](https://www.dunod.com/sciences-techniques/machine-learning-avec-scikit-learn-mise-en-oeuvre-et-cas-concrets-0),
+- [*Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems*](https://www.dunod.com/sciences-techniques/machine-learning-avec-scikit-learn-mise-en-oeuvre-et-cas-concrets-0),
 - [*L'apprentissage Profond*](https://www.apprentissageprofond.org/])
 
 ## My nicest projects 🥳
